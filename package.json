@@ -152,7 +152,7 @@
 		"@types/unzipper": "^0.10.0",
 		"@types/validator": "10.11.3",
 		"@types/yargs": "13.0.3",
-		"async": "2.6.2",
+		"async": "2.6.3",
 		"cheerio": "1.0.0-rc.2",
 		"cross-env": "6.0.3",
 		"expect.js": "0.3.1",
