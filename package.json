@@ -169,7 +169,7 @@
 		"treeify": "1.1.0",
 		"ts-node": "8.4.1",
 		"tslint": "5.20.1",
-		"typescript": "3.6.3",
+		"typescript": "3.9.9",
 		"yargs": "14.2.0",
 		"yauzl": "2.10.0"
 	},
