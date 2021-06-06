@@ -118,7 +118,7 @@
 		"@types/bull": "3.14.4",
 		"@types/busboy": "0.2.3",
 		"@types/bytes": "3.1.0",
-		"@types/cheerio": "0.22.13",
+		"@types/cheerio": "0.22.29",
 		"@types/diff": "4.0.2",
 		"@types/ent": "2.2.3",
 		"@types/expect.js": "0.3.29",
