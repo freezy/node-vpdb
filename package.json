@@ -139,7 +139,7 @@
 		"@types/mongoose": "5.10.0",
 		"@types/mongoose-paginate": "5.0.8",
 		"@types/mongoose-unique-validator": "1.0.4",
-		"@types/node": "12.12.6",
+		"@types/node": "12.20.15",
 		"@types/nodegit": "0.24.13",
 		"@types/nodemailer": "6.4.0",
 		"@types/randomstring": "1.1.6",
